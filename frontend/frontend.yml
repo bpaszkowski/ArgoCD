@@ -18,7 +18,7 @@ spec:
         app: frontend
     spec:
       containers:
-      - image: thatgreendragon/panda-frontend:RC-9
+      - image: thatgreendragon/panda-frontend:RC-10
         name: panda-frontend
         ports:
         - containerPort: 5000
