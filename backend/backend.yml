@@ -18,7 +18,7 @@ spec:
         app: backend
     spec:
       containers:
-      - image: thatgreendragon/panda-backend:RC-4
+      - image: thatgreendragon/panda-backend:RC-5
         name: panda-backend
         ports:
         - containerPort: 5001
